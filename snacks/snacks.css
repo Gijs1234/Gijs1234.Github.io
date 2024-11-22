@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    height:100px;
+    background-color: yellow;
+
+}
+
+.link {
+    height: 100px;
+    width: 200px;
+    line-height: 100px;
+}
