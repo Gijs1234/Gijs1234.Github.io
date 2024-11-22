@@ -2,7 +2,6 @@ nav {
     display: flex;
     height:100px;
     background-color: khaki;
-    text-align: center;
 
 
 }
@@ -12,4 +11,8 @@ nav {
     height: 100px;
     width: 300px;
     line-height: 100px;
+}
+
+navbar{
+    Text-align: center;
 }
